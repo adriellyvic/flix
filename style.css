@@ -86,7 +86,7 @@ p {
 .categoria-videos {
     display: flex;
     overflow-x: auto;
-    scrollbar-color: rgb(255, 0, 170) black;
+    scrollbar-color: rgb(255, 0, 170) rgba(253, 198, 198, 0.817);
     scrollbar-width: thin;
     gap: 10px;
 }
